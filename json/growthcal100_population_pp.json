@@ -1,0 +1,97 @@
+[
+  {
+    "CountryName": "Argentina",
+    "PopulationGrowth": 141.00000000000037,
+    "PurchasingPowerGrowth": 147.01999999999998
+  },
+  {
+    "CountryName": "Australia",
+    "PopulationGrowth": 112.9999999999999,
+    "PurchasingPowerGrowth": 135.34000000000003
+  },
+  {
+    "CountryName": "Brazil",
+    "PopulationGrowth": 553.0000000000001,
+    "PurchasingPowerGrowth": 414.2999999999997
+  },
+  {
+    "CountryName": "Canada",
+    "PopulationGrowth": 114.99999999999986,
+    "PurchasingPowerGrowth": 177.27999999999997
+  },
+  {
+    "CountryName": "China",
+    "PopulationGrowth": 1980.9999999999945,
+    "PurchasingPowerGrowth": 4227.98
+  },
+  {
+    "CountryName": "France",
+    "PopulationGrowth": 87.99999999999955,
+    "PurchasingPowerGrowth": 23204.56
+  },
+  {
+    "CountryName": "Germany",
+    "PopulationGrowth": -98.0000000000004,
+    "PurchasingPowerGrowth": 350.47000000000025
+  },
+  {
+    "CountryName": "India",
+    "PopulationGrowth": 6428.999999999996,
+    "PurchasingPowerGrowth": 1425.5100000000002
+  },
+  {
+    "CountryName": "Indonesia",
+    "PopulationGrowth": 1118.0000000000007,
+    "PurchasingPowerGrowth": 512.0999999999999
+  },
+  {
+    "CountryName": "Italy",
+    "PopulationGrowth": 50,
+    "PurchasingPowerGrowth": 32.42000000000007
+  },
+  {
+    "CountryName": "Japan",
+    "PopulationGrowth": -71.0000000000008,
+    "PurchasingPowerGrowth": 375.35000000000036
+  },
+  {
+    "CountryName": "Mexico",
+    "PopulationGrowth": 410.99999999999994,
+    "PurchasingPowerGrowth": 284.1600000000001
+  },
+  {
+    "CountryName": "Russia",
+    "PopulationGrowth": 79.9999999999983,
+    "PurchasingPowerGrowth": 467.02999999999975
+  },
+  {
+    "CountryName": "Saudi Arabia",
+    "PopulationGrowth": 242.99999999999997,
+    "PurchasingPowerGrowth": 312.76
+  },
+  {
+    "CountryName": "South Africa",
+    "PopulationGrowth": 236.99999999999974,
+    "PurchasingPowerGrowth": 83.72000000000003
+  },
+  {
+    "CountryName": "Republic of Korea",
+    "PopulationGrowth": 81.00000000000023,
+    "PurchasingPowerGrowth": 225.23000000000002
+  },
+  {
+    "CountryName": "Turkey",
+    "PopulationGrowth": 292.00000000000017,
+    "PurchasingPowerGrowth": 263.77
+  },
+  {
+    "CountryName": "United Kingdom",
+    "PopulationGrowth": 183.00000000000054,
+    "PurchasingPowerGrowth": 220.75
+  },
+  {
+    "CountryName": "USA",
+    "PopulationGrowth": 698.0000000000018,
+    "PurchasingPowerGrowth": 1698.7500000000018
+  }
+]

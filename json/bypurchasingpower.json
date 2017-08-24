@@ -1,0 +1,78 @@
+[
+  {
+    "CountryName": "France",
+    "PurchasingPower": "25544.72"
+  },
+  {
+    "CountryName": "USA",
+    "PurchasingPower": "16663.15"
+  },
+  {
+    "CountryName": "China",
+    "PurchasingPower": "16585"
+  },
+  {
+    "CountryName": "India",
+    "PurchasingPower": "6796.13"
+  },
+  {
+    "CountryName": "Japan",
+    "PurchasingPower": "4694.85"
+  },
+  {
+    "CountryName": "Germany",
+    "PurchasingPower": "3630.15"
+  },
+  {
+    "CountryName": "Russia",
+    "PurchasingPower": "3498.04"
+  },
+  {
+    "CountryName": "Brazil",
+    "PurchasingPower": "3218.2"
+  },
+  {
+    "CountryName": "Indonesia",
+    "PurchasingPower": "2516.06"
+  },
+  {
+    "CountryName": "United Kingdom",
+    "PurchasingPower": "2454.23"
+  },
+  {
+    "CountryName": "Italy",
+    "PurchasingPower": "2109.84"
+  },
+  {
+    "CountryName": "Mexico",
+    "PurchasingPower": "2069.84"
+  },
+  {
+    "CountryName": "Republic of Korea",
+    "PurchasingPower": "1698.88"
+  },
+  {
+    "CountryName": "Canada",
+    "PurchasingPower": "1532.79"
+  },
+  {
+    "CountryName": "Saudi Arabia",
+    "PurchasingPower": "1530.54"
+  },
+  {
+    "CountryName": "Turkey",
+    "PurchasingPower": "1448.17"
+  },
+  {
+    "CountryName": "Australia",
+    "PurchasingPower": "1053.23"
+  },
+  {
+    "CountryName": "Argentina",
+    "PurchasingPower": "931.3"
+  },
+  {
+    "CountryName": "South Africa",
+    "PurchasingPower": "685.22"
+  }
+]

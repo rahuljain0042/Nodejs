@@ -1,0 +1,78 @@
+[
+  {
+    "CountryName": "USA",
+    "GDP2013Billions": "16663.15"
+  },
+  {
+    "CountryName": "China",
+    "GDP2013Billions": "9490.85"
+  },
+  {
+    "CountryName": "Japan",
+    "GDP2013Billions": "4919.59"
+  },
+  {
+    "CountryName": "Germany",
+    "GDP2013Billions": "3746.49"
+  },
+  {
+    "CountryName": "France",
+    "GDP2013Billions": "2811.13"
+  },
+  {
+    "CountryName": "United Kingdom",
+    "GDP2013Billions": "2678.38"
+  },
+  {
+    "CountryName": "Brazil",
+    "GDP2013Billions": "2391.03"
+  },
+  {
+    "CountryName": "Italy",
+    "GDP2013Billions": "2137.62"
+  },
+  {
+    "CountryName": "Russia",
+    "GDP2013Billions": "2079.02"
+  },
+  {
+    "CountryName": "India",
+    "GDP2013Billions": "1875.16"
+  },
+  {
+    "CountryName": "Canada",
+    "GDP2013Billions": "1838.96"
+  },
+  {
+    "CountryName": "Australia",
+    "GDP2013Billions": "1497.22"
+  },
+  {
+    "CountryName": "Republic of Korea",
+    "GDP2013Billions": "1305.61"
+  },
+  {
+    "CountryName": "Mexico",
+    "GDP2013Billions": "1261.86"
+  },
+  {
+    "CountryName": "Indonesia",
+    "GDP2013Billions": "912.5"
+  },
+  {
+    "CountryName": "Turkey",
+    "GDP2013Billions": "823.03"
+  },
+  {
+    "CountryName": "Saudi Arabia",
+    "GDP2013Billions": "744.34"
+  },
+  {
+    "CountryName": "Argentina",
+    "GDP2013Billions": "622.05"
+  },
+  {
+    "CountryName": "South Africa",
+    "GDP2013Billions": "366.24"
+  }
+]

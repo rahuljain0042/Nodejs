@@ -1,0 +1,97 @@
+[
+  {
+    "CountryName": "Argentina",
+    "PurchasingPower2010": "784.28",
+    "PurchasingPower2013": "931.3"
+  },
+  {
+    "CountryName": "Australia",
+    "PurchasingPower2010": "917.89",
+    "PurchasingPower2013": "1053.23"
+  },
+  {
+    "CountryName": "Brazil",
+    "PurchasingPower2010": "2803.9",
+    "PurchasingPower2013": "3218.2"
+  },
+  {
+    "CountryName": "Canada",
+    "PurchasingPower2010": "1355.51",
+    "PurchasingPower2013": "1532.79"
+  },
+  {
+    "CountryName": "China",
+    "PurchasingPower2010": "12357.02",
+    "PurchasingPower2013": "16585"
+  },
+  {
+    "CountryName": "France",
+    "PurchasingPower2010": "2340.16",
+    "PurchasingPower2013": "25544.72"
+  },
+  {
+    "CountryName": "Germany",
+    "PurchasingPower2010": "3279.68",
+    "PurchasingPower2013": "3630.15"
+  },
+  {
+    "CountryName": "India",
+    "PurchasingPower2010": "5370.62",
+    "PurchasingPower2013": "6796.13"
+  },
+  {
+    "CountryName": "Indonesia",
+    "PurchasingPower2010": "2003.96",
+    "PurchasingPower2013": "2516.06"
+  },
+  {
+    "CountryName": "Italy",
+    "PurchasingPower2010": "2077.42",
+    "PurchasingPower2013": "2109.84"
+  },
+  {
+    "CountryName": "Japan",
+    "PurchasingPower2010": "4319.5",
+    "PurchasingPower2013": "4694.85"
+  },
+  {
+    "CountryName": "Mexico",
+    "PurchasingPower2010": "1785.68",
+    "PurchasingPower2013": "2069.84"
+  },
+  {
+    "CountryName": "Russia",
+    "PurchasingPower2010": "3031.01",
+    "PurchasingPower2013": "3498.04"
+  },
+  {
+    "CountryName": "Saudi Arabia",
+    "PurchasingPower2010": "1217.78",
+    "PurchasingPower2013": "1530.54"
+  },
+  {
+    "CountryName": "South Africa",
+    "PurchasingPower2010": "601.5",
+    "PurchasingPower2013": "685.22"
+  },
+  {
+    "CountryName": "Republic of Korea",
+    "PurchasingPower2010": "1473.65",
+    "PurchasingPower2013": "1698.88"
+  },
+  {
+    "CountryName": "Turkey",
+    "PurchasingPower2010": "1184.4",
+    "PurchasingPower2013": "1448.17"
+  },
+  {
+    "CountryName": "United Kingdom",
+    "PurchasingPower2010": "2233.48",
+    "PurchasingPower2013": "2454.23"
+  },
+  {
+    "CountryName": "USA",
+    "PurchasingPower2010": "14964.4",
+    "PurchasingPower2013": "16663.15"
+  }
+]
